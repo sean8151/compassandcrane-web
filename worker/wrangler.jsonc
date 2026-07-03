@@ -1,0 +1,6 @@
+{
+  "name": "compassandcrane",
+  "main": "src/index.js",
+  "compatibility_date": "2026-06-29",
+  "rules": [{ "type": "Text", "globs": ["**/*.html"] }]
+}
